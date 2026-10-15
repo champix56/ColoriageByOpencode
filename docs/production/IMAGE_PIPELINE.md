@@ -19,3 +19,16 @@ Prévoir dans l'implémentation :
 - aucune génération factice en cas d'échec d'API.
 
 Une API de langage ne doit pas être confondue avec une API de génération d'images.
+
+## État confirmé (2026-10-15)
+- Aucune clé API disponible ; budget de génération : 0 $.
+- Conséquence : la comparaison de fournisseurs doit d'abord porter sur les
+  options gratuites — génération locale type Stable Diffusion (à condition
+  qu'un GPU soit disponible), paliers gratuits éventuels, ou production
+  vectorielle programmatique (SVG) — avant tout client API payant.
+- Si aucune option gratuite n'est viable, en discuter avec l'utilisateur avant
+  d'engager des coûts. Ne jamais simuler une génération réussie.
+- Format de sortie cible : PNG 300 DPI. Pour une pleine page 8 × 10 po,
+  cela correspond à 2400 × 3000 px minimum par illustration.
+- Style attendu : mandala Día de los Muertos, trait moyen régulier, contours
+  fermés, noir pur sur blanc, sans gris (voir VISUAL_BIBLE.md).

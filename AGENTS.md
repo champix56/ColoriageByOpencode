@@ -54,3 +54,16 @@ docs/memory/NEXT_SESSION.md
 docs/memory/DECISIONS.md
 
 Conserver ces fichiers courts, factuels et utiles à la reprise.
+
+## Paramètres confirmés du livre en cours
+Résumé des décisions validées le 2026-10-15 — source de vérité :
+docs/memory/DECISIONS.md.
+- Livre : « Coloriage anti-stress – Mandalas du Día de los Muertos »,
+  public tous âges, ambiance mystique et ésotérique, rendu ornemental et
+  respectueux de la tradition mexicaine.
+- 50 illustrations type mandala, trait moyen régulier (1,5-2 pt), vectoriel
+  net sans gris, sans texte intérieur (hors liminaires).
+- Format 8 × 10 po portrait, marges blanches (sans fond perdu), verso blanc
+  après chaque illustration, papier blanc, couverture paperback mat.
+- Sources PNG 300 DPI. Fournisseur d'images non configuré : aucune clé API,
+  budget 0 $ — comparer les options gratuites avant tout client payant.

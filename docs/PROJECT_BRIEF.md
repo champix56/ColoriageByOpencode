@@ -11,20 +11,40 @@ l'impression à la demande Amazon KDP.
 4. La production est organisée en étapes contrôlables et reproductibles.
 5. Aucun fichier n'est considéré comme approuvé avant inspection.
 
-## Avant la production
-Demander ou déterminer avec l'utilisateur :
-- public visé et âge ;
-- thème principal et sous-thèmes ;
-- niveau de difficulté ;
-- format de coupe et orientation ;
-- nombre d'illustrations ;
-- présence ou non d'une page blanche au verso ;
-- style de ligne ;
-- contraintes de contenu ;
-- langues du livre ;
-- titre, sous-titre, nom d'auteur ou nom de marque ;
-- ambiance de la couverture ;
-- texte souhaité pour la quatrième de couverture.
+## Décisions de cadrage confirmées (2026-10-15)
+Validées par l'utilisateur lors de la session de cadrage :
+- Public visé : tous âges.
+- Thème principal : Día de los Muertos, traité de façon ornementale et
+  respectueuse de la tradition mexicaine.
+- Difficulté : type mandala — motifs symétriques, répétitifs, méditatifs.
+- Nombre d'illustrations : 50.
+- Style de ligne : trait moyen régulier (1,5 à 2 pt), rendu vectoriel net,
+  sans niveaux de gris.
+- Langues : sans texte intérieur (aucun texte sur les pages d'illustrations).
+- Titre : « Coloriage anti-stress – Mandalas du Día de los Muertos »
+  (accents espagnols à confirmer).
+- Format de coupe : 8 × 10 po, portrait.
+- Fond perdu : non — marges blanches, compositions centrées.
+- Verso : page blanche après chaque illustration.
+- Liminaires : page de titre, « ce livre appartient à », présentation du thème
+  et du coloriage anti-stress, page de test des feutres.
+- Papier intérieur : blanc, impression noir et blanc.
+- Couverture : paperback, finition mate.
+- Ambiance générale et couverture : mystique et ésotérique.
+- Contraintes de contenu : aucune au-delà des règles d'AGENTS.md
+  (pas de marques, pas de franchises).
+- Sources d'illustrations : PNG 300 DPI.
+- Budget de génération : 0 $ ; aucune clé API disponible à ce jour.
 
-Ne pas inventer silencieusement les décisions importantes. Présenter les
-hypothèses à valider par l'utilisateur.
+## Décisions restantes (ne pas inventer silencieusement)
+- Sous-thèmes : proposition de l'agent dans docs/visual/VISUAL_BIBLE.md,
+  à valider avant la construction de la matrice de variété.
+- Nom d'auteur ou de marque pour la couverture et la page de copyright.
+- Page de test des feutres : interprétation par défaut = nuancier vide à
+  remplir par le lecteur (imprimable en noir et blanc). Une page réellement
+  imprimée en couleur exigerait un intérieur premium couleur, nettement plus
+  coûteux — à trancher explicitement.
+- Fournisseur d'images : comparaison requise, orientée options gratuites
+  (génération locale, paliers gratuits) vu le budget 0 $.
+- Texte de la quatrième de couverture : brouillon à proposer par l'agent,
+  à valider avant composition.
