@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+output/art/source/*
+output/interior/*
+output/cover/*
+output/previews/*
+logs/*
+!output/art/source/.gitkeep
+!output/interior/.gitkeep
+!output/cover/.gitkeep
+!output/previews/.gitkeep
+!logs/.gitkeep

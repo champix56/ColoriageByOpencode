@@ -1,0 +1,19 @@
+{
+  "title": "Titre à définir",
+  "subtitle": "",
+  "author": "",
+  "language": "fr",
+  "audience": "à définir",
+  "theme": "à définir",
+  "trim_size": "8.5x11",
+  "orientation": "portrait",
+  "interior_color": "black_and_white",
+  "cover_color": "full_color",
+  "illustration_count": 30,
+  "blank_back_pages": true,
+  "paper_type": "à confirmer dans KDP",
+  "cover_back_text_prompt": "Rédige une quatrième de couverture claire, attractive et honnête, adaptée au public cible. Ne promets aucun résultat irréaliste. Retourne un texte court, relu et prêt à composer.",
+  "image_provider": "à configurer",
+  "image_model": "à configurer",
+  "status": "planning"
+}
